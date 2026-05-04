@@ -396,14 +396,6 @@ Recommended signals to observe in GTKWave:
 
 ---
 
-## Author
-
-**Your Name**
-Department of Electronics Engineering
-Your University Name
-
----
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
