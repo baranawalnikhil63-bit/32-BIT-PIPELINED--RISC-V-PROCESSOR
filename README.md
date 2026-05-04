@@ -11,3 +11,5 @@ A fully functional 32-bit single cycle RISC-V processor implemented in Verilog H
  Simulation Results
  Waveform Signals
  Tools Used
+Overview
+This project implements a single cycle RISC-V processor where every instruction completes in exactly one clock cycle. The datapath includes an ALU, register file, instruction memory, data memory, control unit, sign extender, and all necessary multiplexers and adders. Branch instructions are fully supported with a dedicated branch adder and PC mux.
